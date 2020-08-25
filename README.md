@@ -1,4 +1,4 @@
-# Synkevych Roman @synkevych
+# Roman Synkevych @synkevych
 
 ## Junior Software Engineer 👨‍💻
 
