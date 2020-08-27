@@ -10,7 +10,7 @@ I want to develop myself in the direction of web development using modern techno
 ! Open to new opportunities !
 ```
 
-### 🌱 I’m currently learning Ruby on Rails and Linux
+### 🌱 I’m currently learning Ruby on Rails, Node+React and Linux
 
 ## Languages I use
 
@@ -19,7 +19,7 @@ I want to develop myself in the direction of web development using modern techno
 
 ## Some of the technologies I have worked with
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/440px-Ruby_On_Rails_Logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/1200px-Sketch_Logo.svg.png" width=60> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/440px-Ruby_On_Rails_Logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width=60> |
 |:---:|:---:|:---:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/400px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/ru/4/4c/OpenStack.png" width=60> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1920px-Nginx_logo.svg.png" width=60> |
 | <img src="https://pbs.twimg.com/profile_images/1143532163499008000/Lu6cGu0z_400x400.png" width=60> | <img src="https://rspec.info/images/logo_ogp.png" width=60>  |
