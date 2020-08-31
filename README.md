@@ -2,9 +2,8 @@
 
 ## Junior Software Engineer 👨‍💻
 
-I'm Web Developer with 3 years' experience. I like to solve extraordinary problems and constantly improve my coding skills using patterns or new available methods. To increase my knowledge I recently successfully completed the SoftServe "Ruby Development" course and studied the entire technology stack for software engineers. There we learned about all part of creating app, from chose version of language to deploying app at AWS server and run tests on Trevis CI.
-Have strong knowladge about OOP, Agile methodoogys, SQL database(Postgres), Unit testing(RSpec), MVC design patterns and can deploy app to AWS EC2 or Heroku server.
-I want to develop myself in the direction of web development using modern technolygy(Ruby, React, Node).
+I'm a Web Developer with 3 years' experience. I like to solve extraordinary problems and constantly improve my coding skills using patterns or new available methods. To increase my knowledge I recently successfully completed the SoftServe "Ruby Development" course and studied the entire technology stack for software engineers. There we learned about all parts of creating app, from chosen versions of language to deploying app at AWS server and running tests on Travis CI. Have strong knowledge about OOP, Agile methodologies, SQL database(Postgres), Unit testing(RSpec), MVC design patterns and can deploy apps to AWS EC2 or Heroku server.
+I want to develop myself in the direction of web development using modern technology(Ruby, React, Node).
 
 ```diff
 ! Open to new opportunities !
