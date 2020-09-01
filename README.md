@@ -31,6 +31,8 @@ I want to develop myself in the direction of web development using modern techno
 - [warbler](https://github.com/Synkevych/warbler) – project from courses, Twitter based app, deploy to Heroku services, use MERN stack: RESTful API, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,  Axios, Redux, Redux-thunk, React-router-dom, Bootstrap template, deployed to Heroku.
 **Summary:** Focused on JavaScript, learn the last available JavaScript method(ES6/ES7) to work with arrays and functions, understand Hosting/Bubbling, CORS, Javascript closure, React State and Lifecycle, TCP. UDP. Network,  Garbage Collection, how to use MongoDB, and others.
 
+---
+
 ## Languages I use
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/283px-Java_programming_language_logo.svg.png" width=60> |
