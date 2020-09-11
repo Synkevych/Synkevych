@@ -18,7 +18,7 @@ I want to develop myself in the direction of web development using modern techno
 **SoftServe, Junior Software Engineer(course)**
 
 - [projector](https://github.com/Synkevych/projector) - The project is similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES  to send mail.
-- [postagram](https://github.com/Synkevych/postagram) - A simple Instagram project, you can login and post your photo, and then any user can post comments before posting, resetting the password via email.
+- [postagram](https://github.com/Synkevych/postagram) - A simple Instagram project, you can login and post your photo, and then any user can post comments before posting, resetting the password via email.  
 **Summary:** Studied the best aspects of using OOP and MVC design patterns(do not make large models and controllers, but rather make them into small modules), writing RESTFul API for application(with registration using Facebook and JWT token), connecting email notifications to different actions, setting up a server to work in staging and production mode, setup deployment automation tool Capystrano, application test coverage for 87% using RSpec and studied the largest technological and theoretical stack then ever.
 
 **ІТФ ім. Боголюбова, Freelance**
@@ -28,7 +28,7 @@ I want to develop myself in the direction of web development using modern techno
 - [UA Hub](http://cloud-5.bitp.kiev.ua/) project created from scratch and deployed to Ukrainian Cloud (PHP, MariaDB, Apaches, WordPress), large registration form with lots of user information to be used in the future. “There are no universal tools, sometimes it's easier to learn a new stack and do everything in 2-3 days than to write everything from scratch on a JavaScript technology stack.”
 
 **Udemy. Full Stack Developer**
-- [warbler](https://github.com/Synkevych/warbler) – project from courses, Twitter based app, deploy to Heroku services, use MERN stack: RESTful API, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,  Axios, Redux, Redux-thunk, React-router-dom, Bootstrap template, deployed to Heroku.
+- [warbler](https://github.com/Synkevych/warbler) – project from courses, Twitter based app, deploy to Heroku services, use MERN stack: RESTful API, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,  Axios, Redux, Redux-thunk, React-router-dom, Bootstrap template, deployed to Heroku.  
 **Summary:** Focused on JavaScript, learn the last available JavaScript method(ES6/ES7) to work with arrays and functions, understand Hosting/Bubbling, CORS, Javascript closure, React State and Lifecycle, TCP. UDP. Network,  Garbage Collection, how to use MongoDB, and others.
 
 ---
