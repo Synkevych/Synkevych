@@ -46,7 +46,9 @@ I want to develop myself in the direction of web development using modern techno
 | <img src="https://pbs.twimg.com/profile_images/1143532163499008000/Lu6cGu0z_400x400.png" width=60> | <img src="https://rspec.info/images/logo_ogp.png" width=60>  |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/128px-IntelliJ_IDEA_Logo.svg.png" width=60> |
 
-### ⚡ Fun fact: Empty arrays in JavaScript are curious things
+### ⚡ Fun fact: Try to understand JavaScript Coercion without a smile
+
+<img src="https://www.freecodecamp.org/news/content/images/2019/07/best-js-meme-to-date-2.png" >
 
 ```js
 var foo = []; //empty array
