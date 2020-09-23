@@ -6,8 +6,6 @@ I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and 
 
 ## 💼 Recent projects in which I took part
 
----
-
 **SoftServe, Junior Software Engineer(course)**
 
 - [projector](https://github.com/Synkevych/projector) - The project is similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES  to send mail.  
@@ -23,8 +21,6 @@ I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and 
 **Udemy. Full Stack Developer**
 - [warbler](https://github.com/Synkevych/warbler) – project from courses, Twitter based app, deploy to Heroku services, use MERN stack: RESTful API, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,  Axios, Redux, Redux-thunk, React-router-dom, Bootstrap template, deployed to Heroku.  
 **Summary:** Focused on JavaScript, learn the last available JavaScript method(ES6/ES7) to work with arrays and functions, understand Hosting/Bubbling, CORS, Javascript closure, React State and Lifecycle, TCP. UDP. Network,  Garbage Collection, how to use MongoDB, and others.
-
----
 
 ## 🌐 Languages I use
 
