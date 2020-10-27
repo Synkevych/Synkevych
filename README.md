@@ -1,15 +1,17 @@
 # Roman Synkevych @synkevych
 
-## 👨‍💻 Junior Software Engineer
+## 👨‍💻 Junior Web Developer
 
 I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. Have experience of creating apps, from choosing technology stack to deploying apps at AWS server and running tests on Travis CI. Have strong knowledge about OOP, Agile methodologies, database(Postgres, MongoDB), Unit testing(RSpec), MVC design patterns and how and why you need to create Staging and Production Environment at AWS.   
 
 ## 💼 Recent projects in which I took part
 
+- [nested_rails_forms](https://github.com/Synkevych/nested_rails_forms) Pet-project for create audits form with a dynamic question field and then answers to them. Built with RoR framework, testing with RSpec, deployed to [Heroku](https://quiet-plains-51299.herokuapp.com).
+
 **SoftServe, Junior Software Engineer(course)**
 
-- [projector](https://github.com/Synkevych/projector) - The project is similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES  to send mail.  
-- [postagram](https://github.com/Synkevych/postagram) - A simple Instagram project, you can login and post your photo, and then any user can post comments before posting, resetting the password via email.  
+- [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES  to send mail.  
+- [postagram](https://github.com/Synkevych/postagram) - A simple Instagram-like project, you can login and post your photo with information about them, and then all users will see your post and can comment on them.  
 **Summary:** Studied the best aspects of using OOP and MVC design patterns(do not make large models and controllers, but rather make them into small modules), writing RESTFul API for application(with registration using Facebook and JWT token), connecting email notifications to different actions, setting up a server to work in staging and production mode, automation deployment, unit tests, an email service(Mailgun, Amazon SES), image cloud service (Amazon S3, Cloudinary) and studied the largest technological and theoretical stack then ever.
 
 **ІТФ ім. Боголюбова, Freelance**
