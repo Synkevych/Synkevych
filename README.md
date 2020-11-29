@@ -13,6 +13,10 @@ I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and 
 
 *** 
 
+- [OpenStack](https://github.com/Synkevych/openstack) Practiced in the cloud technology, create a bash script to load data and install flexpart with all the required libraries.
+
+*** 
+
 **SoftServe, Junior Software Engineer(course)**
 
 - [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES  to send mail.  
