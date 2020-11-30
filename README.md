@@ -1,21 +1,20 @@
 # Roman Synkevych @synkevych
 
-## 👨‍💻 Junior Web Developer
+## 👨‍💻 Junior Software Engineer
 
-I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. Have experience of creating apps, from choosing technology stack to deploying apps at AWS server and running tests on Travis CI. Have strong knowledge about OOP, Agile methodologies, database(Postgres, MongoDB), Unit testing(RSpec), MVC design patterns and how to create Staging and Production Environment at AWS.   
+I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. Have experience of creating apps, from choosing technology stack to deploying apps at AWS server and running tests on Travis CI. Have strong knowledge about OOP, Agile methodologies, database(Postgres, MongoDB), Unit testing(RSpec), MVC design patterns and work experience with AWS.   
 
 ## 💼 Recent projects
-- [Count Online Users](https://github.com/Synkevych/realtime_user_tracking) - tracks whether a user is online or not(has opened webpage in browser), showing a green button "Online" at the user card and changes the users counter at the subheader.  
 
-***
+- [Money Spent Counter](https://github.com/Synkevych/money_spent_counter) - a minimal expenses tracking application uses Ruby on Rails framework, Device, RSpe and Bootstrap.  
+
+- [Count Online Users](https://github.com/Synkevych/realtime_user_tracking) - tracks whether a user is online or not(has opened webpage in browser), showing a green button "Online" at the user card and changes the users counter at the subheader. Uses ROR ActionCable(with WebSocket),Fast_jsonapi, React, React Router Dom, Axios
 
 - [Nested_Rails_Forms](https://github.com/Synkevych/nested_rails_forms) Pet-project for create audits form with a dynamic question field and then answers to them. 
+Uses ROR, Device, RSpec and Materialize-sass   
 
-*** 
+- [OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  
 
-- [OpenStack](https://github.com/Synkevych/openstack) Practiced in the cloud technology, create a bash script to load data and install flexpart with all the required libraries.
-
-*** 
 
 **SoftServe, Junior Software Engineer(course)**
 
