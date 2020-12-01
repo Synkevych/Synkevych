@@ -6,21 +6,18 @@ I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and 
 
 ## 💼 Recent projects
 
-- [Money Spent Counter](https://github.com/Synkevych/money_spent_counter) - a minimal expenses tracking application uses Ruby on Rails framework, Device, RSpe and Bootstrap.  
+🟢 [Money Spent Counter](https://github.com/Synkevych/money_spent_counter) - a minimal expenses tracking application uses Ruby on Rails framework, Device, RSpe and Bootstrap.  
 
-- [Count Online Users](https://github.com/Synkevych/realtime_user_tracking) - tracks whether a user is online or not(has opened webpage in browser), showing a green button "Online" at the user card and changes the users counter at the subheader. Uses ROR ActionCable(with WebSocket),Fast_jsonapi, React, React Router Dom, Axios
+🟢 [Count Online Users](https://github.com/Synkevych/realtime_user_tracking) - tracks whether a user is online or not(has opened webpage in browser) and count all online users. Uses ROR ActionCable(with WebSocket),Fast_jsonapi, React, React Router Dom, Axios  
 
-- [Nested_Rails_Forms](https://github.com/Synkevych/nested_rails_forms) Pet-project for create audits form with a dynamic question field and then answers to them. 
-Uses ROR, Device, RSpec and Materialize-sass   
+⚪ [Nested_Rails_Forms](https://github.com/Synkevych/nested_rails_forms) Pet-project for create audits form with a dynamic question field and then answers to them. Uses ROR, Device, RSpec and Materialize-sass   
 
-- [OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  
+🟢 [OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  
 
 
 **SoftServe, Junior Software Engineer(course)**
 
-- [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES  to send mail.  
-
-***
+🟡 [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES  to send mail.  
 
 - [postagram](https://github.com/Synkevych/postagram) - A simple Instagram-like project, you can login and post your photo with information about them, and then all users will see your post and can comment on them.  
 
@@ -29,8 +26,6 @@ Uses ROR, Device, RSpec and Materialize-sass
 **ІТФ ім. Боголюбова, Freelance**
 
 - [project_hub](https://github.com/Synkevych/project_hub) - beta version of Virtual center of digital science - that describes the projects of institutes and allows you to use these projects. MERN stack, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,. deployed to Heroku. After drawing up a complete project board, we decided to switch to the WordPress (LAMP stack - Linux, Apaches, MySQL, PHP), since it solves all the client's problems - CMS, registration using plugins.
-
-***
 
 - [UA Hub](http://cloud-5.bitp.kiev.ua/) project created from scratch using the WordPress plugin, after full testing, created backups and deployed to Ukrainian Cloud (PHP, MariaDB, Apaches, WordPress).
 
