@@ -1,8 +1,8 @@
-# Roman Synkevych @synkevych
+# Roman @Synkevych
 
 ## 👨‍💻 Junior Software Engineer
 
-I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch in Ruby or JavaScript, test it by unit tests, and deploy it to an AWS server. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec), and basic of DevOps.   
+I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch in Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec) and basic of DevOps.   
 
 ## 💼 Recent projects
 
@@ -10,14 +10,14 @@ I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and 
 
 🟢 [Count Online Users](https://github.com/Synkevych/realtime_user_tracking) - tracks whether a user is online or not(has opened webpage in browser) and count all online users. Uses ROR ActionCable, Fast_jsonapi, React, React Router DOM, Axios  
 
-🟢 [Nested_Rails_Forms](https://github.com/Synkevych/nested_rails_forms) Pet-project for create audits form with a dynamic question field and then answers to them. Uses ROR, Devise, RSpec and Materialize-sass   
+🟢 [Nested Rails Forms](https://github.com/Synkevych/nested_rails_forms) – helps to conduct surveys, you can create audits form with a dynamic question field and then answers to them. Uses ROR, Devise, RSpec and Materialize-sass   
 
-🟢 [OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  
+🟢 [OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  Helps to automatically configure flexpart.
 
 
 **SoftServe, Junior Software Engineer(course)**
 
-🟡 [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES  to send mail.  
+🟢 [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES to send mail.  
 
 🟡 [postagram](https://github.com/Synkevych/postagram) - A simple Instagram-like project, you can login and post your photo with information about them, and then all users will see your post and can comment on them.  
 
@@ -27,7 +27,7 @@ I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and 
 
 🟡 [project_hub](https://github.com/Synkevych/project_hub) - beta version of Virtual center of digital science - that describes the projects of institutes and allows you to use these projects. MERN stack, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,. deployed to Heroku. After drawing up a complete project board, we decided to switch to the WordPress (LAMP stack - Linux, Apaches, MySQL, PHP), since it solves all the client's problems - CMS, registration using plugins.
 
-🟢 [UA Hub](http://cloud-5.bitp.kiev.ua/) project created using the WordPress plugin, configured backups and deployed to Ukrainian Cloud Infrastructure BITP(PHP, MariaDB, Apaches, WordPress).
+🟡 [UA Hub](http://cloud-5.bitp.kiev.ua/) project created using the WordPress plugin, configured backups and deployed to Ukrainian Cloud Infrastructure BITP(PHP, MariaDB, Apaches, WordPress).
 
 **Udemy. Full Stack Developer**
 
