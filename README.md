@@ -1,10 +1,10 @@
 # Roman @Synkevych
 
-## 👨‍💻 Junior Software Engineer
+## 👨‍💻 Position: Ruby DEV at [Faster Than Light](https://fasterthanlight.me/)
 
-I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch in Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec) and basic of DevOps.   
+I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara) and basic of DevOps.  
 
-## 💼 Recent projects
+## 💼 Recent public projects
 
 🟢 [Money Spent Counter](https://github.com/Synkevych/money_spent_counter) - a minimal expenses tracking application uses Ruby on Rails framework, Devise, RSpec and Bootstrap.  
 
@@ -32,8 +32,6 @@ I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and 
 **Udemy. Full Stack Developer**
 
 🟡 [warbler](https://github.com/Synkevych/warbler) – project from courses, Twitter based app, deploy to Heroku services, use MERN stack: RESTful API, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,  Axios, Redux, Redux-thunk, React-router-dom, Bootstrap template, deployed to Heroku.  
-
-**Summary:** Focused on JavaScript, learn the last available JavaScript method(ES6/ES7) to work with arrays and functions, understand Hosting/Bubbling, CORS, Javascript closure, React State and Lifecycle, TCP. UDP. Network,  Garbage Collection, how to use MongoDB, and others.
 
 ## 🌐 Languages I use
 
