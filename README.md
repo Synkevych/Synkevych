@@ -4,6 +4,8 @@
 
 ## 👨‍💻 Junior Ruby Dev at [Faster Than Light](https://fasterthanlight.me/)
 
+## 🚀 [Developer Roadmap](https://github.com/Synkevych/developer-roadmap) for 2021
+
 I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara) and basic of DevOps.  
 
 ## 💼 Recent public projects
@@ -16,24 +18,19 @@ I'm a Web Developer with 3 years' experience. I enjoy creating useful tools and 
 
 🟢 [OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  Helps to automatically configure flexpart.
 
+**SoftServe, Junior Software Engineer**
 
-**SoftServe, Junior Software Engineer(course)**
+🟢 [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deployed to AWS instance with staging and production environment, covered with tests by 87%. Connected Amazon SES to send mail.  
 
-🟢 [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deploy app to AWS instance with staging and production environment. Сovered the application with tests by 87%. Connected Amazon SES to send mail.  
-
-🟡 [postagram](https://github.com/Synkevych/postagram) - A simple Instagram-like project, you can login and post your photo with information about them, and then all users will see your post and can comment on them.  
-
-**Summary:** Studied the best aspects of using OOP and MVC design patterns(do not make large models and controllers, but rather make them into small modules), writing RESTFul API for application(with registration using Facebook and JWT token), connecting email notifications to different actions, setting up a server to work in staging and production mode, automation deployment, unit tests, an email service(Mailgun, Amazon SES), image cloud service (Amazon S3, Cloudinary) and studied the largest technological and theoretical stack then ever.
+🟡 [postagram](https://github.com/Synkevych/postagram) - A simple Instagram-like project, you can login and post your photo with information about them, and then all users will see your post and can comment on them. 
 
 **ІТФ ім. Боголюбова, Freelance**
-
-🟡 [project_hub](https://github.com/Synkevych/project_hub) - beta version of Virtual center of digital science - that describes the projects of institutes and allows you to use these projects. MERN stack, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,. deployed to Heroku. After drawing up a complete project board, we decided to switch to the WordPress (LAMP stack - Linux, Apaches, MySQL, PHP), since it solves all the client's problems - CMS, registration using plugins.
 
 🟡 [UA Hub](http://cloud-5.bitp.kiev.ua/) project created using the WordPress plugin, configured backups and deployed to Ukrainian Cloud Infrastructure BITP(PHP, MariaDB, Apaches, WordPress).
 
 **Udemy. Full Stack Developer**
 
-🟡 [warbler](https://github.com/Synkevych/warbler) – project from courses, Twitter based app, deploy to Heroku services, use MERN stack: RESTful API, Mongoose  - MongoDB object modeling tool, bcrypt - to work with passwords, JWT - to create a token,  cors - to enable CORS requests,  express - minimalist web framework for node,  Axios, Redux, Redux-thunk, React-router-dom, Bootstrap template, deployed to Heroku.  
+🟡 [warbler](https://github.com/Synkevych/warbler) – Twitter based app deployed to Heroku, use MERN stack: RESTful API, Mongoose, bcrypt, JWT, CORS - to enable CORS requests, Express, Axios, Redux, Redux-thunk, React-router-dom, Bootstrap template. 
 
 ## 🌐 Languages I use
 
