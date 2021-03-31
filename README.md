@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=synkevych&style=plastic&color=blue)
 
-## 👨‍💻 Junior Ruby Dev at [Faster Than Light](https://fasterthanlight.me/)
+## 👨‍💻 Junior Software Engineer
 
 I'm a Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara) and basic of DevOps.  
 
@@ -24,25 +24,19 @@ I'm a Developer with 3 years' experience. I enjoy creating useful tools and apps
 
 🟢 [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deployed to AWS instance with staging and production environment, covered with tests by 87%. Connected Amazon SES to send mail.  
 
-🟡 [postagram](https://github.com/Synkevych/postagram) - A simple Instagram-like project, you can login and post your photo with information about them, and then all users will see your post and can comment on them. 
-
 **ІТФ ім. Боголюбова, Freelance**
 
 🟡 [UA Hub](http://cloud-5.bitp.kiev.ua/) project created using the WordPress plugin, configured backups and deployed to Ukrainian Cloud Infrastructure BITP(PHP, MariaDB, Apaches, WordPress).
 
-**Udemy. Full Stack Developer**
-
-🟡 [warbler](https://github.com/Synkevych/warbler) – Twitter based app deployed to Heroku, use MERN stack: RESTful API, Mongoose, bcrypt, JWT, CORS - to enable CORS requests, Express, Axios, Redux, Redux-thunk, React-router-dom, Bootstrap template. 
-
 ## 🌐 Languages I use
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/283px-Java_programming_language_logo.svg.png" width=60> |
-|:---:|:---:|:---:|:---:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/283px-Java_programming_language_logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" width=60>
+|:---:|:---:|:---:|:---:|:---:|
 
 ## ⚙️ Some of the technologies I have worked with
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/440px-Ruby_On_Rails_Logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width=60> |
 |:---:|:---:|:---:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/400px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/ru/4/4c/OpenStack.png" width=60> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1920px-Nginx_logo.svg.png" width=60> |
-| <img src="https://pbs.twimg.com/profile_images/1143532163499008000/Lu6cGu0z_400x400.png" width=60> | <img src="https://rspec.info/images/logo_ogp.png" width=60>  |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/128px-IntelliJ_IDEA_Logo.svg.png" width=60> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/ru/4/4c/OpenStack.png" width=60> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1920px-Nginx_logo.svg.png" width=60> |
+| <img src="https://pbs.twimg.com/profile_images/1143532163499008000/Lu6cGu0z_400x400.png" width=60> | <img src="https://rspec.info/images/logo_ogp.png" width=60>  | <img src="https://linux-notes.org/wp-content/uploads/2019/06/Ustanovka-heroku-v-UnixLinux-660x320.jpg" width="60"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width=60> |  |
