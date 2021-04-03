@@ -6,9 +6,11 @@
 
 I'm a Developer with 3 years' experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara) and basic of DevOps.  
 
-- I am engaged in support of the [RODOS](https://resy5.iket.kit.edu/RODOS/) system for users of Ukraine
-- My [Developer Roadmap](https://github.com/Synkevych/developer-roadmap) for 2021
-- In free time I like to take pictures, the best of them are on [Unsplash](https://unsplash.com/@synkevych)
+- Master of Computer Science
+- Engaged in support of the [RODOS](https://resy5.iket.kit.edu/RODOS/) system in Ukraine
+- [Developer Roadmap](https://github.com/Synkevych/developer-roadmap) for 2021
+- In free time I like to take pictures,some of them are published on [Unsplash](https://unsplash.com/@synkevych)
+- [CV_Synkevych](https://drive.google.com/file/d/1EyYe9ltyMmj-BiO-HEUFEfrKfpL3toyT/view?usp=sharing)
 
 ## 💼 Recent public projects
 
