@@ -20,7 +20,7 @@ I'm a Developer with 3 years experience. I enjoy creating useful tools and apps 
 
 🟢 [Nested Rails Forms](https://github.com/Synkevych/nested_rails_forms) – helps to conduct surveys, you can create audits form with a dynamic question field and then answers to them. Uses ROR, Devise, RSpec and Materialize-sass   
 
-🟢 [OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  Helps to automatically configure flexpart.
+🟢 [Flexpart Setup For OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  Helps to automatically configure flexpart.
 
 **SoftServe, Junior Software Engineer**
 
