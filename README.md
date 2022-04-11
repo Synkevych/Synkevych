@@ -12,7 +12,10 @@ I'm a Developer with 3 years experience. I enjoy creating useful tools and apps 
 - In free time I like to take pictures, some of them are published on [Unsplash](https://unsplash.com/@synkevych)
 - [CV_Synkevych](https://drive.google.com/file/d/1EyYe9ltyMmj-BiO-HEUFEfrKfpL3toyT/view?usp=sharing)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synkevych&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=synkevych&count_private=true&show_icons=true&theme=dracula" height=165 hspace=20/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synkevych&count_private=true&layout=compact&theme=dracula&hide=html&langs_count=6"/>
+</p>
 
 ## 💼 Recent public projects
 
