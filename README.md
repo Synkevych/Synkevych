@@ -12,6 +12,8 @@ I'm a Developer with 3 years experience. I enjoy creating useful tools and apps 
 - In free time I like to take pictures, some of them are published on [Unsplash](https://unsplash.com/@synkevych)
 - [CV_Synkevych](https://drive.google.com/file/d/1EyYe9ltyMmj-BiO-HEUFEfrKfpL3toyT/view?usp=sharing)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=synkevych&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💼 Recent public projects
 
 🟢 [Money Spent Counter](https://github.com/Synkevych/money_spent_counter) - a minimal expenses tracking application uses Ruby on Rails framework, Devise, RSpec and Bootstrap.  
