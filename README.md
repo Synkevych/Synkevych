@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=synkevych&style=plastic&color=blue)
 
-## 👨‍💻 Ruby Developer
+## 👨‍💻 Software Engineer
 
 I'm a Developer with 3 years experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara), and basics of DevOps.  
 
@@ -18,6 +18,8 @@ I'm a Developer with 3 years experience. I enjoy creating useful tools and apps 
 </p>
 
 ## 💼 Recent public projects
+
+🟢 [SIMFLEX](https://github.com/Synkevych/dockerize-simflex) - dockerization of backward calculation using FLEXPART model and minimization of the results.  
 
 🟢 [Money Spent Counter](https://github.com/Synkevych/money_spent_counter) - a minimal expenses tracking application uses Ruby on Rails framework, Devise, RSpec and Bootstrap.  
 
