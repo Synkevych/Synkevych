@@ -10,7 +10,7 @@ I'm a Developer with 3 years experience. I enjoy creating useful tools and apps 
 - Engaged in support of the [RODOS](https://resy5.iket.kit.edu/RODOS/) system in Ukraine
 - [Developer Roadmap](https://github.com/Synkevych/developer-roadmap) for 2021
 - In free time I like to take pictures, some of them are published on [Unsplash](https://unsplash.com/@synkevych)
-- [CV_Synkevych](https://drive.google.com/file/d/1EyYe9ltyMmj-BiO-HEUFEfrKfpL3toyT/view?usp=sharing)
+- [CV_Synkevych](https://drive.google.com/file/d/1Ey-vMMNpjigUg0NakR27M5kMHerDV3qw/view?usp=share_link)
 
 <p align="middle">
 <img src="https://github-readme-stats.vercel.app/api?username=synkevych&count_private=true&show_icons=true&theme=dracula" height=165 hspace=20/>
