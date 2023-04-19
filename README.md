@@ -7,7 +7,7 @@
 I'm a Developer with 3 years experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara), and basics of DevOps.  
 
 - Master of Computer Science
-- Engaged in support of the [RODOS](https://resy5.iket.kit.edu/RODOS/) system in Ukraine
+- Participated in program **Grow your career with Google Cloud** [Skills Boost](https://www.cloudskillsboost.google/public_profiles/777e21b3-a400-4bed-ad95-e9eaa0ee3055)
 - [Developer Roadmap](https://github.com/Synkevych/developer-roadmap) for 2021
 - In free time I like to take pictures, some of them are published on [Unsplash](https://unsplash.com/@synkevych)
 - [CV_Synkevych](https://drive.google.com/file/d/1Ey-vMMNpjigUg0NakR27M5kMHerDV3qw/view?usp=share_link)
