@@ -4,12 +4,12 @@
 
 ## 👨‍💻 Software Engineer
 
-I'm a Developer with 3 years experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge about OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara), and basics of DevOps.  
+I'm a Software Developer with 7 years experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Ruby or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge of OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara), and basics of DevOps.  
 
 - Master of Computer Science
 - Participated in program **Grow your career with Google Cloud** [Skills Boost](https://www.cloudskillsboost.google/public_profiles/777e21b3-a400-4bed-ad95-e9eaa0ee3055)
 - [Developer Roadmap](https://github.com/Synkevych/developer-roadmap) for 2021
-- In free time I like to take pictures, some of them are published on [Unsplash](https://unsplash.com/@synkevych)
+- In my free time I like to take pictures, some of which are published on [Unsplash](https://unsplash.com/@synkevych)
 - [CV_Synkevych](https://drive.google.com/file/d/1Ey-vMMNpjigUg0NakR27M5kMHerDV3qw/view?usp=share_link)
 
 <p align="middle">
@@ -21,17 +21,17 @@ I'm a Developer with 3 years experience. I enjoy creating useful tools and apps 
 
 🟢 [SIMFLEX](https://github.com/Synkevych/dockerize-simflex) - dockerization of backward calculation using FLEXPART model and minimization of the results.  
 
-🟢 [Money Spent Counter](https://github.com/Synkevych/money_spent_counter) - a minimal expenses tracking application uses Ruby on Rails framework, Devise, RSpec and Bootstrap.  
+🟢 [Money Spent Counter](https://github.com/Synkevych/money_spent_counter) - a minimal expenses tracking application that uses Ruby on Rails framework, Devise, RSpec and Bootstrap.  
 
 🟢 [Count Online Users](https://github.com/Synkevych/realtime_user_tracking) - tracks whether a user is online or not(has opened webpage in browser) and count all online users. Uses ROR ActionCable, Fast_jsonapi, React, React Router DOM, Axios  
 
-🟢 [Nested Rails Forms](https://github.com/Synkevych/nested_rails_forms) – helps to conduct surveys, you can create audits form with a dynamic question field and then answers to them. Uses ROR, Devise, RSpec and Materialize-sass   
+🟢 [Nested Rails Forms](https://github.com/Synkevych/nested_rails_forms) – helps to conduct surveys, you can create audit forms with a dynamic question field and then answer them. Uses ROR, Devise, RSpec and Materialize-sass   
 
-🟢 [Flexpart Setup For OpenStack](https://github.com/Synkevych/openstack) - a couple of bash script to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  Helps to automatically configure flexpart.
+🟢 [Flexpart Setup For OpenStack](https://github.com/Synkevych/openstack) - a couple of bash scripts to load data and install flexpart with all the required libraries, run multiple virtual machines in OpenStack and basic commands for working with OpenStack.  Helps to automatically configure flexpart.
 
 **SoftServe, Junior Software Engineer**
 
-🟢 [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to trello, you can create your own boards in the task card boards, set performers, add images, transfer cards between boards and so on. Used modern bootstrap template Frest. Deployed to AWS instance with staging and production environment, covered with tests by 87%. Connected Amazon SES to send mail.  
+🟢 [projector](https://github.com/Synkevych/projector) - Pet-project similar in functionality to Trello, you can create your own boards in the task cardboards, set performers, add images, transfer cards between boards, and so on. Uses the modern bootstrap template Frest. Deployed to AWS instance with staging and production environment, covered with tests by 87%. Connected Amazon SES to send mails.  
 
 **ІТФ ім. Боголюбова, Freelance**
 
