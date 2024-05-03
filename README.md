@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Software Engineer
 
-I'm a Software Developer with 4 years experience. I enjoy creating useful tools and apps to make the world a better place. I can create an application from scratch using Python, Ruby, or JavaScript, test it by unit tests, and deploy it to the AWS or Heroku servers. Have good knowledge of OOP, SOLID, REST, MVC, DRY, Agile, SQL, database(Postgres, MongoDB), Unit testing(RSpec, Capybara), and basics of DevOps.  
+Full Stack Developer with 4 years of experience in developing and deploying commercial applications using Ruby, JavaScript and Python languages. Proficient in implementing SSO, generating PDF reports, and optimizing database queries. Automated infrastructure deployment on OpenStack, achieving a 3x speed increase through parallel computing. Assisted in establishing operational response systems for 10 state organizations.
 
 - Master of Computer Science
 - Participated in program **Grow your career with Google Cloud** [Skills Boost](https://www.cloudskillsboost.google/public_profiles/777e21b3-a400-4bed-ad95-e9eaa0ee3055)
